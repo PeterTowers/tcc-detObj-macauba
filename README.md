@@ -20,6 +20,7 @@ methodology in distinguishing these species, although there are
 improvements to be made in the image annotation process, or the process
 of dividing the orthomosaics that produced the images used in the
 training phase.
+
 ---
 ## Imagens e *labels*
 As imagens e labels estão contidos na pasta
