@@ -13,8 +13,8 @@ architectures for the tasks of identifying and differentiating
 specimens of macauba and babassu (*Attalea speciosa*) in their natural
 environments in the context of object detection and UAV-based imagery.
 The evaluated CNN architectures were YOLOv4 and YOLOv9, which achieved
-an mAP score of $75.63\% \pm 3.29\%$ (average $\pm$ standard deviation)
-and $72.7\% \pm 2.3\%$, respectively, as evaluated through k-fold
+an mAP score of 75.63% $\pm$ 3.29% (average $\pm$ standard deviation)
+and 72.7% $\pm$ 2.3%, respectively, as evaluated through k-fold
 cross-validation. The results indicate the effectiveness of the proposed
 methodology in distinguishing these species, although there are
 improvements to be made in the image annotation process, or the process
